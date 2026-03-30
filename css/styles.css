@@ -106,18 +106,13 @@ ul {
 }
 
 .logo-wrapper {
-  width: 120px;
+width: 120px;
   height: 120px;
-  margin: 0 auto 20px;
+  margin: 0 auto 16px;
   border-radius: 50%;
   overflow: hidden;
-  border: 2px solid var(--neon-orange);
-  box-shadow: var(--glow-orange);
-  background: #000;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
+  border: 1px solid rgba(255, 107, 0, 0.4);
+  opacity: 0.8;
 }
 
 .logo-img {
